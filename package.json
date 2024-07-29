@@ -1,0 +1,22 @@
+{
+  "name": "psixbot",
+  "version": "1.0.0",
+  "description": "psixologik testlar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "psixolog",
+    "psixologiya",
+    "psixologik",
+    "test",
+    "bot"
+  ],
+  "author": "Yasmina",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3"
+  }
+}
